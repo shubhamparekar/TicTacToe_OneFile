@@ -18,14 +18,14 @@ A simple Tic-Tac-Toe game implemented in C++. Play against a friend or the compu
 ## How to Compile and Run
 1. **Clone the Repository**:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone "https://github.com/shubhamparekar/TicTacToe_OneFile"
+cd TicTacToe_OneFile
 ```
 2. **Compile the Program**:
 ```bash
-g++ -o tic_tac_toe tic_tac_toe.cpp -std=c++11
+g++ -o main main.cpp -std=c++11
 ```
 3. **Run the Program**:
 ```bash
-./tic_tac_toe
+./main
 ```
