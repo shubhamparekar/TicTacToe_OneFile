@@ -12,7 +12,7 @@ A simple Tic-Tac-Toe game implemented in C++. Play against a friend or the compu
 1. Run the game in your terminal.
 2. Choose to play against the computer or a friend.
 3. Follow the prompts to input your moves (1-9). Each number corresponds to a position on the board:
-4. 4. Get notified when there's a winner or if the game ends in a tie.
+4. Get notified when there's a winner or if the game ends in a tie.
 5. Choose to replay or exit after a game finishes.
 
 ## How to Compile and Run
